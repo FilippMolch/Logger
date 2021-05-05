@@ -2,13 +2,14 @@
 
 example:
 
+```cpp
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include "../include/Logger.h"
 
 using namespace std;
 
-```cpp
+
 int main(){
 	Logger::init("log\\");
 
