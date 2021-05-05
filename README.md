@@ -35,3 +35,7 @@ int main(){
 	return 0;
 }
 ```
+
+![console](https://github.com/FilippMolch/Logger/blob/main/screenshots/example1.png)
+
+![file](https://github.com/FilippMolch/Logger/blob/main/screenshots/example2.png)
